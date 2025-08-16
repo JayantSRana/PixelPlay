@@ -168,14 +168,8 @@ Tools → Manage Libraries → Search and install:
 - [ ] Add WiFi connectivity for online features
 - [ ] Implement game difficulty levels
 
-## License
+## Working
 
-This project is open source. Feel free to modify and distribute according to your needs.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
+https://wokwi.com/projects/439197225140055041
 
 **Happy Gaming! 🎮**
